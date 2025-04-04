@@ -76,3 +76,12 @@ Predict income categories (High, Medium, Low) using demographic and transaction 
 - Visualization and feature selection significantly improve model interpretability and accuracy.
 
 - Business application of predictions (e.g., identifying high-income prospects) provides real-world value.
+
+
+**Tech Stack**
+
+- Languages: Python (Jupyter Notebooks)
+
+- Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn
+
+- Models: K-Nearest Neighbors, Naive Bayes
